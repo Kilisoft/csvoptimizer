@@ -1,0 +1,5 @@
+C:\Users\Kilian\Desktop\Hauptdatei.csv
+C:\Users\Kilian\Desktop\Vergleichsdatei.csv
+C:\Users\Kilian\Desktop\Resultat
+AufGleichheitPruefen
+nichtAutomatisch
